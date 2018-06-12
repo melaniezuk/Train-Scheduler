@@ -1,0 +1,33 @@
+form {
+    margin: 25px; 
+}
+ 
+h1{
+    text-align: center;
+}
+
+.container{
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    margin: 0px;
+    padding: 25px;
+    padding-bottom: 50px;            
+}
+
+body {
+    background-image: url("assets/New-York-City-Subway-Map-4.mediumthumb.gif");
+    border: 25px solid rgb(18, 17, 20);
+    margin: 0px;
+}   
+    
+.card-heading{
+   background-color: rgb(219, 219, 180)
+   margin: 100px;        
+}
+
+button{
+    background-color: rgb(221, 221, 215);
+
+}
+#card{
+    margin: -5px;
+}
