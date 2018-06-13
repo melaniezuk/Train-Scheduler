@@ -1,9 +1,13 @@
-form {
+form{
     margin: 25px; 
 }
  
 h1{
     text-align: center;
+}
+
+.card-title{
+    padding-left: 10px;
 }
 
 .container{
@@ -13,7 +17,7 @@ h1{
     padding-bottom: 50px;            
 }
 
-body {
+body{
     background-image: url("assets/New-York-City-Subway-Map-4.mediumthumb.gif");
     border: 25px solid rgb(18, 17, 20);
     margin: 0px;
